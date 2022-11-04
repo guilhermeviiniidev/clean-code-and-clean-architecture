@@ -1,0 +1,13 @@
+1 - nome estranho
+renomear variavel, metodo, função, classe, arquivo
+
+2 - linhas em brancos
+apagar linha em branco
+extrair dados
+
+3 - comentários
+apagar comentario
+
+4 - apagar código morto
+
+5 - simplificar condicoes
