@@ -1,10 +1,6 @@
 export default class Segment {
   private readonly OVERNIGHT_START = 22;
   private readonly OVERNIGHT_END = 6;
-  readonly OVERNIGHT_FARE = 3.9;
-  readonly OVERNIGHT_SUNDAY_FARE = 5;
-  readonly SUNDAY_FARE = 2.9;
-  readonly NORMAL_FARE = 2.1;
 
   constructor(readonly distance: number, readonly date: Date) {
     if (!this.isValidDate()) throw new Error("Invalid date");
