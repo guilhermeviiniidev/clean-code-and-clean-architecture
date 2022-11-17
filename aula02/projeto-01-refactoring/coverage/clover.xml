@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1668128228593" clover="3.2.0">
+  <project timestamp="1668128228593" name="All files">
+    <metrics statements="20" coveredstatements="20" conditionals="6" coveredconditionals="5" methods="7" coveredmethods="7" elements="33" coveredelements="32" complexity="0" loc="20" ncloc="20" packages="1" files="1" classes="1"/>
+    <file name="validate.ts" path="/home/fieldcontrol/development/clean-code-and-architecture-t8/aula02/parte02-projeto-01/src/v1/validate.ts">
+      <metrics statements="20" coveredstatements="20" conditionals="6" coveredconditionals="5" methods="7" coveredmethods="7"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="3" count="19" type="stmt"/>
+      <line num="7" count="7" type="stmt"/>
+      <line num="11" count="7" type="stmt"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="19" count="6" type="stmt"/>
+      <line num="20" count="6" type="stmt"/>
+      <line num="21" count="66" type="cond" truecount="1" falsecount="0"/>
+      <line num="23" count="6" type="stmt"/>
+      <line num="24" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="28" count="7" type="cond" truecount="0" falsecount="1"/>
+      <line num="29" count="7" type="stmt"/>
+      <line num="30" count="7" type="cond" truecount="1" falsecount="0"/>
+      <line num="31" count="4" type="cond" truecount="1" falsecount="0"/>
+      <line num="32" count="3" type="stmt"/>
+      <line num="33" count="3" type="stmt"/>
+      <line num="34" count="3" type="stmt"/>
+      <line num="35" count="3" type="stmt"/>
+      <line num="36" count="3" type="stmt"/>
+    </file>
+  </project>
+</coverage>
